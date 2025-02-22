@@ -16,7 +16,7 @@ Code used in PHP Trainings
 - **String Concatenation** (`.` operator)  
 - **Dynamic Content Generation** (Updating greeting message based on time)
 
-## Build a Dynamic Website Header & Footer using `include()`"**  
+## Build a Dynamic Website Header & Footer using `include()`
 - **Code Reusability** (`include()` and `require()`)  
 - **Modular Web Development** (Separating header, footer, and content)  
 - **Embedding PHP in HTML** (`<?php ?>`)  
